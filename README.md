@@ -4,12 +4,11 @@
 * Obter dados
 * Entender os dados (dicionario de variáveis)
 * Histograma do pandas
-* valores faltantes
+* Valores ausentes (missing values)
 * Formatar os dados (tipos)
-* Limpeza dos dados
-* Manipulações de dados com pandas
+* Exportar dados
 
-## Aula2 (Estatistica Descritiva)
+## Aula2 (Analise Descritiva)
 * Correlação
     * Medidas de tendencia central 
         * Ex: Média, moda, mediana e medidas 
