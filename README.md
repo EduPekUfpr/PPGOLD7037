@@ -9,23 +9,30 @@
 * Exportar dados
 
 ## Aula2 (Analise Descritiva)
-* Correlação
-    * Medidas de tendencia central 
-        * Ex: Média, moda, mediana e medidas 
-        * Separatrizes
-        * Box Plot
+* Medidas de tendencia central 
+    * Média
+    * Moda
+    * Mediana  
+    * Medidas Separatrizes
+    * Box Plot
 
 * Medidas de dispersão
-    * Ex: Desvio padrão, variância e  coeficiente de variação.
+    * Desvio padrão
+    * Variância 
+    * Coeficiente de variação
 
-* Gráficos para cada 
-    * Variáveis Qualitativas
-        * Barras
-        * Pizza
-    * Variáveis Quantitativas
-        * Colunas
-        * Scatter
-        * Linha
+**Gráficos:** 
+* Variáveis Qualitativas
+    * Barras
+    * Pizza
+* Variáveis Quantitativas
+    * Colunas
+    * Scatter
+    * Linha
+    * Histograma
+    * Densidade
+
+* Correlação
 
 # Supervisioned
 

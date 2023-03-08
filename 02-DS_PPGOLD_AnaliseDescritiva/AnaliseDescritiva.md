@@ -20,6 +20,8 @@
     * Colunas
     * Scatter
     * Linha
+    * Histograma
+    * Densidade
 
 * Correlação
     
