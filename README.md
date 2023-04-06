@@ -42,22 +42,13 @@
 * Regressão não linear multipla
 * Regressão não linear com dummies
 
-## Aula4 (Análise de Erros e Significância Estatística)
-* MAD
-* MSE
-* MSRE
-* R^2
-* TESTE F
-* TESTE T
-* TESTE DE SHAPIRO FRANCIA
-* STEPWISE
 
-## Aula5 (Classificação Parte 1)
+## Aula4 (Classificação Parte 1)
 * Arvore
 * Scalling
 * Cross validation
 
-## Aula6 (Cassificação Parte 2)
+## Aula5 (Cassificação Parte 2)
 
 * Under fitting
 * Over fitting
@@ -67,12 +58,12 @@
 
 # UnSupervisioned
 
-## Aula7 (Análise de cluster)
+## Aula6 (Análise de cluster)
 * kmeans
 * Hierarchical
 * Density based scan
 
-## Aula8 (análise dos componentes principal)
+## Aula7 (análise dos componentes principal)
 * SVD
 * PCA
 
