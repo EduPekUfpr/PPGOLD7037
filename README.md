@@ -58,18 +58,22 @@
 * Avaliar as estatísticas do modelo
 * Avaliar os erros
 
-## Aula4 (Scale & Cross Validation)
+## Aula4 (Regressão Logística Binária)
+* Criar um modelo de regressão logística binária
+* Avaliar a qualidade do modelo
+
+## Aula5 (Scale & Cross Validation)
 * Compreender a importancia do `Scaling`
 * Aplicar diferentes técnicas de `Scaling`
 * Compreender a importancia do `Cross Validation`
 * Aplicar diferentes técnicas de `Cross Validation`
 
-## Aula5 (Tree Basics)
+## Aula6 (Tree Basics)
 * Obter os dados do case
 * Realizar um pré processamento nos dados
 * Realizar uma classificação supervisionada através de `Árvores de Decisão`
 
-## Aula6-1 (Tree Advanced)
+## Aula7-1 (Tree Advanced)
 
 * Obter os dados do case
 * Realizar um pré processamento nos dados
@@ -79,7 +83,7 @@
 * Criar árvores através do critério `Entropia`
 * Medir o desempenho do modelo de classificação
 
-## Aula6-2 (Tree Advanced)
+## Aula7-2 (Tree Advanced)
 
 * Obter os dados do case
 * Realizar um pré processamento nos dados
@@ -88,7 +92,7 @@
 
 # UnSupervisioned
 
-## Aula7-1 (Hierarchical Cluster)
+## Aula8-1 (Hierarchical Cluster)
 
 * Criar cluster hierárquicos
 * Usar as diferentes métricas
@@ -96,26 +100,23 @@
 * Analisar a qualidade do modelo
 
 
-## Aula7-2 (K-Means)
+## Aula8-2 (K-Means)
 
 *   Criar Clusters não hierárquicos com o algorítimo K-Means.
 *   Fazer previsão de uma nova observação.
 *   Realizar análises da qualidade da clusterização. 
 
-## Aula7-3 (DBSCAN)
+## Aula8-3 (DBSCAN)
 
 *   Criar um modelo usando o algoritmo DBSCAN
 *   Entender a diferença entre os algoritmos K-means e DBSCAN
 
-
-## Aula 8 (PCA)
+## Aula 9 (PCA)
 
 * Entender o algoritmo PCA
 * Realizar Ranqueamentos com PCA
 
-## Aula 9 (Story Telling)
+## Aula 10 (Story Telling)
 
 * Criar gráficos atraentes
 * Realizar storytelling com dados
-
-## Aula 10 (SVD)
